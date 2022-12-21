@@ -1,4 +1,4 @@
-package com.nikhil.cryptoapp
+package com.nikhil.cryptoapp.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
